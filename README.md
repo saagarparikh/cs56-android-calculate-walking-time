@@ -5,10 +5,12 @@
 ## W18 Final Remarks 
 
 ### Running the Application 
-1. Load the project on Android Studio 
-2. Press "run" (green play button on the top right)
-3. Select a virtual device, or connect your own with a USB cable 
-4. Campus Commute application will now open up
+1. Load the project on Android Studio
+2. Get a new Google Maps API Key (https://console.developers.google.com/apis/api)
+3. Get your google-services-JSON set up (https://developers.google.com/mobile/add)
+4. Press "run" (green play button on the top right)
+5. Select a virtual device, or connect your own with a USB cable 
+6. Campus Commute application will now open up
 
 ### Current Progress (what we accomplished) 
 1. When the application opens, it opens with the current location set to UCSB on the map (using Google Maps API)
